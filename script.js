@@ -2,7 +2,7 @@ const alternatives = [
     {text:"", images:"images/cat-01.gif"},
     {text:"pq", images:"images/cat-02.gif"},
     {text:"really no quieres?", images:"images/cat-03.gif"},
-    {text:"Vamos muñeca, atrévete a decir que sí", images:"images/cat-04.gif"},
+    {text:"Vamos muñeca, di que sí", images:"images/cat-04.gif"},
     {text:"ashh si o neh", images:"images/cat-05.gif"}
 ];
 const ohyes = {text:"Sabía que aceptarías", images:"images/cat-yes.jpg"};
